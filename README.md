@@ -19,7 +19,7 @@
 
 # *Do you have any certifications?*
 >Sure, here you go:
-> - WIP
+> - https://www.linkedin.com/learning/certificates/bd46d6a9cb76deda73925ea93bd42eb7e2e54817ed956b3b519178ed015712fe?trk=share_certificate
 > - WIP
 > - WIP
 
