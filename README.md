@@ -12,9 +12,9 @@
 
 # *What languages are you proficient in*?
 >I know:
-> - Python (3 years experience)
 > - HTML/CSS (3 years experience)
 > - Javascript (2 years experience)
+> - Python (1 year experience)
 > - C++ (A twitch V-Tuber has inspired me to learn this language. I will try my best learning it.)
 
 # *Do you have any certifications?*
