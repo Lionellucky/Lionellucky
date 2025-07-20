@@ -19,9 +19,9 @@
 
 # *Do you have any certifications?*
 >Sure, here you go:
-> - https://www.linkedin.com/learning/certificates/bd46d6a9cb76deda73925ea93bd42eb7e2e54817ed956b3b519178ed015712fe?trk=share_certificate
-> - WIP
-> - WIP
+> - https://www.linkedin.com/learning/certificates/136933d29fd765228c7f43b541bb6ee0b871c1fce2a2b5d4aba473b33082757d?trk=share_certificate
+> - https://www.linkedin.com/learning/certificates/d0c4c5bfe401e76b968c6316999f049b9bf2a562ef7902ae6efb552c98d2cb3e?trk=share_certificate
+> - https://www.linkedin.com/learning/certificates/00b81d5af1887c8165749e368b19445ca5cee716c071ae0960fdd9b2c74044d6?trk=share_certificate
 
 # *Are you in my walls?*
 >Unfortunately, I cannot get out.
